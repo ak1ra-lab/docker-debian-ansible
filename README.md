@@ -8,7 +8,7 @@ This is a fork of [geerlingguy/docker-debian13-ansible](https://github.com/geerl
 
 ## Tags
 
-  - `latest`: Latest stable version of Ansible, with Python 3.x.
+  - `latest`, `trixie-slim`: Debian 13 (Trixie) `-slim` base, with the latest stable version of Ansible and Python 3.x.
 
 ## How to Build
 
